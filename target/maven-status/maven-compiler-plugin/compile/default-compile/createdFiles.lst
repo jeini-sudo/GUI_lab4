@@ -1,0 +1,6 @@
+view\PanelCanvas.class
+view\PanelMove.class
+com\mycompany\giu_lab4\GIU_lab4.class
+Controller\Controller.class
+view\GUIFrame.class
+view\PanelColor.class
